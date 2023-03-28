@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main(){
+	int num=21;
+	double num1=21.21;
+	char ch ='A';
+	cout<<"number:"<<num<< endl;
+	cout<<"character:"<<ch<< endl;
+	cout<<"decimal:"<<num1<< endl;
+	return 0;
+}
